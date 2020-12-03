@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb6060ce-42d1-4f01-ac25-993fb7e70e85" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/demandhall/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demandhall/Html/.idea/Html.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demandhall/Html/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demandhall/lib/.idea/lib.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demandhall/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demandhall/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demandhall/Html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/demandhall/Html/index.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/demandhall" />
+  </component>
+  <component name="ProjectId" id="1hO9Wvx6uQlGmCt6YAunTcwRspT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb6060ce-42d1-4f01-ac25-993fb7e70e85" name="Default Changelist" comment="" />
+      <created>1599871306830</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599871306830</updated>
+      <workItem from="1599871308197" duration="6031000" />
+      <workItem from="1599915514805" duration="707000" />
+      <workItem from="1600091036126" duration="2296000" />
+      <workItem from="1601518199440" duration="384000" />
+      <workItem from="1601694241948" duration="147000" />
+      <workItem from="1602755876656" duration="682000" />
+      <workItem from="1603618437039" duration="876000" />
+      <workItem from="1603719617259" duration="3157000" />
+      <workItem from="1603873161719" duration="59000" />
+      <workItem from="1603873660137" duration="99000" />
+      <workItem from="1606831237649" duration="1588000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
